@@ -2,8 +2,8 @@
 <h3 align="center">B.Tech CSE (Data Science) student building AI-powered web apps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR-PORTFOLIO-URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shyam-tripathi-8a708a315" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-xi-three-70.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:tripathishyam86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -14,7 +14,7 @@
 - 🎓 Pursuing **B.Tech in CSE (Data Science)** at Pranveer Singh Institute of Technology, Kanpur (2023–2027)
 - 💡 Passionate about **Data Structures & Algorithms, Web Development, and System Design**
 - 🧠 Building AI-powered products using **MERN stack, Groq & Gemini APIs**
-- 🏆 Solved **1000+ DSA problems** across LeetCode, GeeksforGeeks and HackerRank
+- 🏆 Solved **1000+ DSA problems** across [LeetCode](https://leetcode.com/u/ShyamTripathi12/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/tripathin2cv) and [HackerRank](https://www.hackerrank.com/profile/2313058_CSDS1C)
 - 🥇 Winner — **AI Agent Builders Award 2026**
 - 📍 Based in Kanpur, Uttar Pradesh, India
 
@@ -49,13 +49,13 @@
 
 ### 📌 Featured Projects
 
-#### 🤖 [Interview Bot](YOUR-REPO-LINK)
+#### 🤖 [Interview Bot](https://interview-bot-alpha-lilac.vercel.app/)
 AI interview prep platform (MERN + Groq & Gemini APIs) with live proctoring, STAR scoring, 30+ quizzes, a career chatbot, resume enhancer, and personalized AI feedback — deployed on Vercel & Render.
 
-#### 🏠 [Rent and Flatmate Finder](YOUR-REPO-LINK)
+#### 🏠 [Rent and Flatmate Finder](https://rent-flatmate-finder-eight.vercel.app/)
 Real-time flatmate finder built with React, Node.js, Prisma and Socket.io — features an LLM compatibility engine and secure role-based portals (Tenant, Owner, Admin) using JWT auth.
 
-#### 📝 [AI Exam Notes Generator](YOUR-REPO-LINK)
+#### 📝 [AI Exam Notes Generator](https://ai-notes-generator-six.vercel.app)
 AI notes generator (Next.js, Llama 3.3, Gemini) that produces structured notes, MCQs and Q&A, auto-generates Mermaid.js diagrams and code examples in C++/Java/Python, with multi-format export (PDF/Word/Markdown).
 
 ---
