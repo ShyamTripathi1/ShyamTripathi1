@@ -60,18 +60,7 @@ AI notes generator (Next.js, Llama 3.3, Gemini) that produces structured notes, 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShyamTripathi1&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamTripathi1&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamTripathi1&theme=radical" />
-</p>
-
----
 
 <p align="center"><i>Thanks for visiting my profile — always open to collaborating on interesting projects!</i></p>
 
