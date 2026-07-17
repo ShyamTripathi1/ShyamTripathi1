@@ -44,4 +44,3 @@ Real-time flatmate finder built with React, Node.js, Prisma and Socket.io — fe
 AI notes generator (Next.js, Llama 3.3, Gemini) that produces structured notes, MCQs and Q&A, auto-generates Mermaid.js diagrams and code examples in C++/Java/Python, with multi-format export (PDF/Word/Markdown).
 ---
 <p align="center"><i>Thanks for visiting my profile — always open to collaborating on interesting projects!</i></p>
-make this overview page more attractive and more beautiful . if anyt data is needed just extract from the resume i have attached it
